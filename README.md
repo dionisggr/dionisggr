@@ -18,22 +18,34 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![JQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![Express.js](https://img.shields.io/badge/-expess-333333?style=flat&logo=express)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)&nbsp;
+![Mocha](https://img.shields.io/badge/-mocha-333333?style=flat&logo=mocha)&nbsp;
+![Nodemon](https://img.shields.io/badge/-nodemon-333333?style=flat&logo=nodemon)&nbsp;
+![Heroku](https://img.shields.io/badge/-heroku-333333?style=flat&logo=heroku)&nbsp;
+![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JWT](https://img.shields.io/badge/-jwt-333333?style=flat&logo=json)&nbsp;
+
+<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p>
+<p align="center">
 <a href="https://github.com/dionisggr">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dionisggr&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionisggr&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+
+<br/>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -42,9 +54,3 @@
 <a href="https://linkedin.com/in/dionisggr"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dionisggr@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<style>
-  img {
-    width: 50%;
-  }
-</style>
