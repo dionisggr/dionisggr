@@ -30,8 +30,8 @@
 
 <p align="center">
 <a href="https://github.com/dionisggr">
-  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dionisggr&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionisggr&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dionisggr&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionisggr&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
