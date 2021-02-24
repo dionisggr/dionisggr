@@ -15,7 +15,7 @@
 <br />
 <br />
 
-<img alt="Night Coding" width="400" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width="350" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -36,6 +36,7 @@
 ![JWT](https://img.shields.io/badge/-jwt-333333?style=flat&logo=json)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br/>
 <br/>
 <br/>
 
