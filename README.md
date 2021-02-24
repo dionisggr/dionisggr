@@ -19,7 +19,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<div markdown="1">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![JQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)&nbsp;
@@ -36,7 +35,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![JWT](https://img.shields.io/badge/-jwt-333333?style=flat&logo=json)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-</div>
 
 <br/>
 <br/>
