@@ -6,8 +6,8 @@
 
 💡 &nbsp;I like to explore new technologies and developing interesting software solutions.\
 🎓 &nbsp;I possess a Bachelor's in Network Technology and Application Development from NUC University, in Puerto Rico.\
-🌱 &nbsp;I'm on track for learning more about highly used back-end technologies like MongoDB, PHP, and deployment trends with Docker and Kubernetes.\
-✍️ &nbsp;In my free time, I like to relax my mind playing the piano and watchingn shows. TV has a way of having us imagine other lives.\
+🌱 &nbsp;I'm on track for learning more about highly used back-end technologies like MongoDB, PHP, Docker and Kubernetes.\
+✍️ &nbsp;In my free time, I like to relax my mind playing the piano and watchingn shows. TV has a way of having us creatively imagine other lives.\
 💬 &nbsp;Feel free to reach out to me for any consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.\
 
