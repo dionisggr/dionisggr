@@ -42,7 +42,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/dionisggr">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dionisggr&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionisggr&layout=compact&exclude_lang=java+r&theme=vue-dark" />
