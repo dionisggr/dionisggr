@@ -1,6 +1,6 @@
 ![Dionis Gonzalez Banner]()
 
-## 👋 &nbsp;Hey there! I'm Dionis
+## 👋 &nbsp;Hey there! I'm Dionis.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
