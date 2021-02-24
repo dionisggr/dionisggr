@@ -28,7 +28,7 @@
 ![Nodemon](https://img.shields.io/badge/-Nodemon-333333?style=flat&logo=nodemon)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)&nbsp;
-![CSS3](https://img.shields.io/badge/-Html5-333333?style=flat&logo=Html5&logoColor=1572B6)&nbsp;
+![CSS3](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=Html5&logoColor=1572B6)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
