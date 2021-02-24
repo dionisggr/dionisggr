@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about highly used back-end technologies like MongoDB, PHP, Docker and Kubernetes.\
 ✍️ &nbsp;In my free time, I like to relax my mind playing the piano and catching up on interesting topics and trends.\
 💬 &nbsp;Feel free to reach out to me for any consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.
 
 <br />
 <br />
