@@ -21,7 +21,7 @@
 
 <img alt="Night Coding" width="325" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<div height="200" />
+<div height=500"></div>
 
 ### 🛠 &nbsp;Tech Stack
 
