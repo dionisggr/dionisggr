@@ -1,4 +1,5 @@
 ![Dionis Gonzalez Banner](/banner.jfif)
+<img src="/banner.jfif" alt="banner" height="100px">
 
 ## 👋 &nbsp;Hey there! I'm Dionis.
 
