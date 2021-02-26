@@ -1,4 +1,4 @@
-![Dionis Gonzalez Banner]()
+![Dionis Gonzalez Banner](/banner.jpeg)
 
 ## 👋 &nbsp;Hey there! I'm Dionis.
 
