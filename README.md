@@ -1,4 +1,6 @@
-<img src="hero-image.jpg" alt="Hero Image" style="border-radius: 5px" />
+<kbd>
+  <img src="hero-image.jpg" alt="Hero Image" style="border-radius: 5px" />
+</kbd>
 
 ## 👋 &nbsp;Hey there! I'm Dionis.
 
