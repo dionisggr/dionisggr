@@ -23,11 +23,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<span>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-</span>
-
 ![JQuery](https://img.shields.io/badge/-JQquery-333333?style=flat&logo=jquery)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Expess.js-333333?style=flat&logo=express)&nbsp;
