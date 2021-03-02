@@ -1,4 +1,4 @@
-![Dionis Gonzalez Banner](/hero-image.jpg)
+<img src="hero-image.jpg" alt="Hero Image" style="border-radius: 5px" />
 
 ## 👋 &nbsp;Hey there! I'm Dionis.
 
