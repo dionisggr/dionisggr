@@ -1,5 +1,5 @@
 <kbd>
-  <img src="edited-hero-image.png" alt="Hero Image" style="border-radius: 5px" height="350" width="1000" />
+  <img src="edited-hero-image.PNG" alt="Hero Image" style="border-radius: 5px" height="350" width="1000" />
 </kbd>
 
 ## 👋 &nbsp;Hey there! I'm Dionis.
