@@ -5,7 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and developing interesting software solutions. \
-🎓 &nbsp;I possess a Bachelor's in Network Technology and Application Development from NUC University, in Puerto Rico. \
+🎓 &nbsp;I have a Bachelor's in Network Technology and Application Development from NUC University. \
+🎓 &nbsp;I recently graduated from a Full-Stack Software Engineering certificate course with [Thinkful](https://www.thinkful.com). \
 🌱 &nbsp;I'm on track for learning more about highly used back-end technologies like MongoDB, PHP, Docker and Kubernetes. \
 ✍️ &nbsp;In my free time, I like to relax the mind playing the piano and catching up on interesting topics and trends. \
 💬 &nbsp;Feel free to reach out to me for any consulting and volunteering, or just for some interesting discussion. \
