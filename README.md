@@ -14,7 +14,7 @@
 💬 &nbsp;Feel free to reach out to me for any consulting and volunteering, or just for some interesting discussion. \
 ✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.
 
-:clipboard: &nbsp;Or take a look at my [My Resume.](https://drive.google.com/file/d/1mjB82PEG7tBm9mMiaUshHvWa7ene4y7a/view?usp=sharing)
+:clipboard: &nbsp;Or take a look at my <a href="https://drive.google.com/file/d/1mjB82PEG7tBm9mMiaUshHvWa7ene4y7a/view?usp=sharing" alt="Dionis Gonzalez Resume" target="_blank">My Resume</a>
 
 <br />
 <br />
