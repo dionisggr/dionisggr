@@ -1,5 +1,5 @@
 <kbd>
-  <img src="readme-background.jpg" width="1000" alt="Hero Image" />
+  <img src="background.jpg" width="1000" alt="Hero Image" />
 </kbd>
 
 ## 👋 &nbsp;Hey there! I'm Dionis.
