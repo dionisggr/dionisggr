@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and developing interesting software solutions. \
+💡 &nbsp; I like to explore new technologies and develop interesting software solutions. \
 🎓 &nbsp;I have a Bachelor's in Network Technology and Application Development from NUC University. \
 🎓 &nbsp;I recently graduated from a Full-Stack Software Engineering certificate course with [Thinkful](https://www.thinkful.com). \
 🌱 &nbsp;I'm on track for learning more about highly used back-end technologies like MongoDB, PHP, Docker and Kubernetes. \
