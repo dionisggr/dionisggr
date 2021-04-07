@@ -48,10 +48,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<a href="https://github.com/dionisggr">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dionisggr&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionisggr&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionisggr&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </p>
 
 <br />
