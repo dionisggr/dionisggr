@@ -4,8 +4,6 @@
 
 ## 👋 &nbsp;Hey there, I'm Dionis!
 
-<br />
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop interesting software solutions. \
@@ -18,6 +16,7 @@
 
 :clipboard: &nbsp;Or take a look at my <a href="http://bit.ly/40ktcVF" alt="Dionis Gonzalez Resume" target="_blank">My Resume</a>.
 
+<br />
 <br />
 
 <img alt="Night Coding" width="325" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
