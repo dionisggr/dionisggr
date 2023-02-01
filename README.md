@@ -7,10 +7,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies and develop interesting software solutions. \
+🎓 &nbsp;I am currently pursuing a Master's in Computer Science from Georgia Institute of Technology. \
 🎓 &nbsp;I have a Bachelor's in Network Technology and Application Development from NUC University. \
 🎓 &nbsp;Full-Stack Software Engineering Certificate - [Thinkful](https://www.thinkful.com). \
-✍️ &nbsp;In my free time, I like to relax the mind playing the piano and catching up on interesting topics and trends. \
-💬 &nbsp;Feel free to reach out to me for any consulting and volunteering, or just for some interesting discussion. \
+✍️ &nbsp;In my free time, I enjoy watching anime/movies, playing some piano and catching up on interesting trends and topics. \
+💬 &nbsp;Feel free to reach out to me for any project or volunteering, even just some conversation. \
 ✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.
 
 :clipboard: &nbsp;Or take a look at my <a href="https://drive.google.com/file/d/1mg6wqLWqYQYImAwZZId-upGQeuLrYtB7/view?usp=sharing" alt="Dionis Gonzalez Resume" target="_blank">My Resume</a>
