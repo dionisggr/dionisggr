@@ -65,5 +65,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/dionisggr"><img src="https://img.shields.io/badge/-Dionis%20Gonzalez%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="http://bit.ly/40ktcVF"><img src="https://img.shields.io/badge/-My%20Resume-b22222?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="mailto:dionisggr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:dionisggr@gmail.com"><img src="https://img.shields.io/badge/-dionisggr@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
