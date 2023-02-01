@@ -6,10 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop interesting software solutions. \
-🎓 &nbsp;I am currently pursuing a Master's in Computer Science from Georgia Institute of Technology. \
-🎓 &nbsp;I have a Bachelor's in Network Technology and Application Development from NUC University. \
-🎓 &nbsp;Full-Stack Software Engineering Certificate - [Thinkful](https://www.thinkful.com). \
+💡 &nbsp;I like to explore new technologies and develop interesting software solutions. \
+🎓 &nbsp;Currently pursuing a Master's in Computer Science from Georgia Institute of Technology. \
+🎓 &nbsp;Have a Bachelor's in Network Technology and Application Development from NUC University. \
+🎓 &nbsp;Finished a Full-Stack Software Engineering Certificate - [Thinkful](https://www.thinkful.com). \
 ✍️ &nbsp;In my free time, I enjoy watching anime/movies, playing some piano and catching up on interesting trends and topics. \
 💬 &nbsp;Feel free to reach out to me for any project or volunteering, even just some conversation. \
 ✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.
