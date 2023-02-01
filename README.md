@@ -14,7 +14,7 @@
 💬 &nbsp;Feel free to reach out to me for any project or volunteering, even just some conversation. \
 ✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.
 
-:clipboard: &nbsp;Or take a look at my <a href="http://bit.ly/40ktcVF" alt="Dionis Gonzalez Resume" target="_blank">My Resume.</a>
+:clipboard: &nbsp;Or take a look at my <a href="http://bit.ly/40ktcVF" alt="Dionis Gonzalez Resume" target="_blank">My Resume</a>.
 
 <br />
 <br />
