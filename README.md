@@ -2,7 +2,9 @@
   <img src="background.jpg" width="1000" alt="Hero Image" />
 </kbd>
 
-## 👋 &nbsp;Hey there! I'm Dionis.
+## 👋 &nbsp;Hey there, I'm Dionis!
+
+<br />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -17,11 +19,8 @@
 :clipboard: &nbsp;Or take a look at my <a href="http://bit.ly/40ktcVF" alt="Dionis Gonzalez Resume" target="_blank">My Resume</a>.
 
 <br />
-<br />
 
 <img alt="Night Coding" width="325" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
-
-### 
 
 ### 🛠 &nbsp;Tech Stack
 
