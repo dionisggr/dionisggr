@@ -25,25 +25,38 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQquery-333333?style=flat&logo=jquery)&nbsp;
-![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Expess.js-333333?style=flat&logo=express)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=Html5&logoColor=1572B6)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Storybook.js](https://img.shields.io/badge/-StorybookJS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=react)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQquery-333333?style=flat&logo=jquery)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=postgresql)&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat)
+![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat)
+![DBT](https://img.shields.io/badge/-DBT-333333?style=flat&logo=dbt)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Expess.js-333333?style=flat&logo=express)&nbsp;
+![Knex.js](https://img.shields.io/badge/-Knex.js-333333?style=flat)
+![OAuth](https://img.shields.io/badge/-OAuth-333333?style=flat)
+![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=mocha)&nbsp;
+![Enzyme](https://img.shields.io/badge/-Enzyme-333333?style=flat)
 ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)&nbsp;
 ![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=mocha)&nbsp;
+![Supertest](https://img.shields.io/badge/-Supertest-333333?style=flat)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-333333?style=flat&logo=webdriverio)
+![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
+![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)
+![Google Cloud Platform](https://img.shields.io/badge/-Google-333333?style=flat&logo=heroku)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=postgresql)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
-![GCP](https://img.shields.io/badge/-Google-333333?style=flat&logo=heroku)&nbsp;
-![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![CircleCI](https://img.shields.io/badge/-CircleCI-333333?style=flat&logo=circleci)
 
 <br/>
 <br/>
