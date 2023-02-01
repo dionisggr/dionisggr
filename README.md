@@ -49,15 +49,6 @@
 <br/>
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionisggr&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</p>
-
-<br />
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
