@@ -2,19 +2,19 @@
   <img src="background.jpg" width="1000" alt="Hero Image" />
 </kbd>
 
-## 👋 &nbsp;Hey there, I'm Dionis!
+## 👋 &nbsp;Hi, I'm Dionis!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop interesting software solutions. \
+💡 &nbsp;I love exploring new technologies and creating innovative software solutions. \
 🎓 &nbsp;Currently pursuing a Master's in Computer Science from Georgia Institute of Technology. \
-🎓 &nbsp;Have a Bachelor's in Network Technology and Application Development from NUC University. \
-🎓 &nbsp;Finished a Full-Stack Software Engineering Certificate - [Thinkful](https://www.thinkful.com). \
-✍️ &nbsp;In my free time, I enjoy watching anime/movies, playing some piano and catching up on interesting trends and topics. \
-💬 &nbsp;Feel free to reach out to me for any project or volunteering, even just some conversation. \
-✉️ &nbsp;You can shoot me an email at dionisggr@gmail.com! I'll try to respond as soon as I can.
+🎓 &nbsp;Earned a Bachelor's in Network Technology and Application Development from NUC University. \
+🎓 &nbsp;Completed a Full-Stack Software Engineering Certificate at [Thinkful](https://www.thinkful.com). \
+✍️ &nbsp;During my free time, I enjoy watching anime/movies, playing piano, and keeping up with intriguing trends and topics. \
+💬 &nbsp;Feel free to contact me for projects, volunteering opportunities, or even just a chat. \
+✉️ &nbsp;Send me an email at dionisggr@gmail.com! I'll get back to you as soon as possible.
 
-:clipboard: &nbsp;Or take a look at my <a href="http://bit.ly/40ktcVF" alt="Dionis Gonzalez Resume" target="_blank">My Resume</a>.
+📋 &nbsp;Check out my <a href="http://bit.ly/40ktcVF" alt="Dionis Gonzalez Resume" target="_blank">Resume</a>.
 
 <br />
 <br />
@@ -27,8 +27,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=react)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQquery-333333?style=flat&logo=jquery)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
@@ -37,7 +37,7 @@
 ![DBT](https://img.shields.io/badge/-DBT-333333?style=flat&logo=dbt)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Expess.js-333333?style=flat&logo=express)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)&nbsp;
 ![Knex.js](https://img.shields.io/badge/-Knex.js-333333?style=flat)
 ![OAuth](https://img.shields.io/badge/-OAuth-333333?style=flat)
 ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json)&nbsp;
