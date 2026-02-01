@@ -1,69 +1,68 @@
 <kbd>
-  <img src="background.jpg" width="1000" alt="Hero Image" />
+  <img src="background.jpeg" width="1000" alt="Hero Image" />
 </kbd>
 
-## 👋 &nbsp;Hi, I'm Dionis!
+## 👋 &nbsp;Hi, I'm Dionis (Dio)
 
-### 👨🏻‍💻 &nbsp;About Me
+Full-Stack · Data Engineering · AI/LLM Integrations
 
-💡 &nbsp;I love exploring new technologies and creating innovative software solutions. \
-🎓 &nbsp;Currently pursuing a Master's in Computer Science from Georgia Institute of Technology. \
-🎓 &nbsp;Earned a Bachelor's in Network Technology and Application Development from NUC University. \
-🎓 &nbsp;Completed a Full-Stack Software Engineering Certificate. \
-✍️ &nbsp;During my free time, I enjoy watching anime/movies, playing piano, and keeping up with intriguing trends and topics. \
-💬 &nbsp;Feel free to contact me for projects, volunteering opportunities, or even just a chat. \
-✉️ &nbsp;Send me an email at dionisggr@gmail.com! I'll get back to you as soon as possible.
+---
 
-📋 &nbsp;Check out my <a href="https://bit.ly/dionis2023" alt="Dionis Gonzalez Resume" target="_blank">Resume</a>.
+### 🧭 &nbsp;About
 
-<br />
-<br />
+- 🎓 M.S. Computer Science @ Georgia Tech
+- 🧩 I build data-driven, user-facing products and AI/LLM-powered automation
+- ✍️ I write about AI/LLMs for non-technical audiences (Medium)
+- 📍 Denver, CO
 
-<img alt="Night Coding" width="325" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
+---
 
-### 🛠 &nbsp;Tech Stack
+### 🧰 &nbsp;Core stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=Html5&logoColor=1572B6)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
-![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat)
-![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat)
-![DBT](https://img.shields.io/badge/-DBT-333333?style=flat&logo=dbt)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)&nbsp;
-![Knex.js](https://img.shields.io/badge/-Knex.js-333333?style=flat)
-![OAuth](https://img.shields.io/badge/-OAuth-333333?style=flat)
-![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=mocha)&nbsp;
-![Enzyme](https://img.shields.io/badge/-Enzyme-333333?style=flat)
-![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)&nbsp;
-![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=mocha)&nbsp;
-![Supertest](https://img.shields.io/badge/-Supertest-333333?style=flat)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
-![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-333333?style=flat&logo=webdriverio)
-![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
-![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)
-![Google Cloud Platform](https://img.shields.io/badge/-Google-333333?style=flat&logo=heroku)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=postgresql)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
-![CircleCI](https://img.shields.io/badge/-CircleCI-333333?style=flat&logo=circleci)
+**Web**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript)
+![Vue](https://img.shields.io/badge/Vue-111827?style=flat&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/Nuxt-111827?style=flat&logo=nuxtdotjs)
+![React](https://img.shields.io/badge/React-111827?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs)
 
-<br/>
-<br/>
-<br/>
+**Backend**<br>
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat&logo=prisma)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat&logo=firebase)
 
-### 🤝🏻 &nbsp;Connect with Me
+**Data / AI**<br>
+![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python)
+![Airflow](https://img.shields.io/badge/Airflow-111827?style=flat&logo=apacheairflow)
+![BigQuery](https://img.shields.io/badge/BigQuery-111827?style=flat&logo=googlecloud)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-111827?style=flat&logo=huggingface)
+
+**Cloud / Observability**<br>
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-111827?style=flat&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker)
+![Datadog](https://img.shields.io/badge/Datadog-111827?style=flat&logo=datadog)
+
+**Commerce**<br>
+![Shopify](https://img.shields.io/badge/Shopify%20(Headless)-111827?style=flat&logo=shopify)
+
+---
+
+### 🔗 &nbsp;Connect
 
 <p align="center">
-  <a href="https://bit.ly/dionis2023" target="_blank"><img src="https://img.shields.io/badge/-My%20Resume-b22222?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dionis-gonzalez"><img src="https://img.shields.io/badge/-Dionis%20Gonzalez%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:dionisggr@gmail.com"><img src="https://img.shields.io/badge/-dionisggr@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://dioveloper.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ffffff?style=flat-square&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="Dionis%20Gonzalez%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-b22222?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dionis-gonzalez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dionisggr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
